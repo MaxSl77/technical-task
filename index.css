@@ -128,4 +128,8 @@ a {
     .benefits__block {
         margin: 0 auto;
     }
+
+    .one {
+        display: none;
+    }
 }
