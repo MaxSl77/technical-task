@@ -50,6 +50,3 @@ dots.forEach((item, indexDot) => {
         prepareCurrentSlide(index);
     })
 })
-
-next.addEventListener('click', nextSlide);
-prev.addEventListener('click', prevSlide);
